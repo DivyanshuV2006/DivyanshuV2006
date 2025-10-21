@@ -34,4 +34,4 @@ I’m a **computer engineering student** who enjoys building practical tools tha
 
 ### 📫 **Contact**
 - **GitHub:** [@DivyanshuV2006](https://github.com/DivyanshuV2006)  
-- **EMAIL:** [@Divyanshu.sdlp@gmail.com](Divyanshu.sdlp@gmail.com) 
+- **EMAIL:** [Divyanshu.sdlp@gmail.com](Divyanshu.sdlp@gmail.com) 
