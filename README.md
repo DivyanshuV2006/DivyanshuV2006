@@ -14,7 +14,7 @@ I’m a **computer engineering student** who enjoys building practical tools tha
 ### 💻 **Tech Stack**
 - **Languages:** Python, JavaScript, Lua  
 - **Tools:** Git, Linux, Arduino  
-- **Frameworks & Libraries:** Flask, React, Pytorch,Python  
+- **Frameworks & Libraries:** Flask, React, Pytorch  
 
 ---
 
