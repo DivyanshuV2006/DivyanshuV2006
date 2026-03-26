@@ -34,4 +34,9 @@ I’m a **computer engineering student** who enjoys building practical tools tha
 
 ### 📫 **Contact**
 - **GitHub:** [@DivyanshuV2006](https://github.com/DivyanshuV2006)  
-- **EMAIL:** [Divyanshu.sdlp@gmail.com](mailto:divyanshu.sdlp@gmail.com) 
+- **EMAIL:** [Divyanshu.sdlp@gmail.com](mailto:divyanshu.sdlp@gmail.com)
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=spample&label=Profile%20views&color=0e75b6&style=flat" alt="Divyanshu" />
+  <img src="https://img.shields.io/github/followers/spample?label=Follow&style=social" />
+</p>
