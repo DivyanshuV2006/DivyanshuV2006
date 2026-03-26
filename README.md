@@ -37,6 +37,6 @@ I’m a **computer engineering student** who enjoys building practical tools tha
 - **EMAIL:** [Divyanshu.sdlp@gmail.com](mailto:divyanshu.sdlp@gmail.com)
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=spample&label=Profile%20views&color=0e75b6&style=flat" alt="Divyanshu" />
-  <img src="https://img.shields.io/github/followers/spample?label=Follow&style=social" />
+  <img src="https://komarev.com/ghpvc/?username=DivyanshuV2006&label=Profile%20views&color=0e75b6&style=flat" alt="DivyanshuV2006" />
+  <img src="https://img.shields.io/github/followers/DivyanshuV2006?label=Follow&style=social" />
 </p>
