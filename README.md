@@ -23,7 +23,7 @@ I’m a **computer engineering student** who enjoys building practical tools tha
 - 🧠 [**Img_recognition**](https://github.com/DivyanshuV2006/Img_recognition) – custom image recognition model  
 - 🐾 [**Animal-classification-model**](https://github.com/DivyanshuV2006/Animal-classification-model) – Python-based animal classifier  
 - 🤖 [**Jarvis2.0**](https://github.com/DivyanshuV2006/Jarvis2.0) – lightweight personal assistant built in Python  
-- 🎮 [**Physics Engine**](https://github.com/DivyanshuV2006/Physics-engine) – Physics based AI  
+- 🔭 [**Physics Engine**](https://github.com/DivyanshuV2006/Physics-engine) – Physics based AI  
 
 ---
 
